@@ -74,7 +74,7 @@ echo "Upload to remote repository ..."
 echo
 
 git branch -m "master" "main"
-git remote add origin  https://github.com/mztiddly/iBdj6roMPLn8.git
+git remote add origin https://github.com/mzuther/devnotes.git
 git push --force --set-upstream origin main
 
 echo
